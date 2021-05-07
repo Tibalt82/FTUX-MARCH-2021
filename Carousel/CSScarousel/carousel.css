@@ -1,0 +1,95 @@
+* {
+    font-family: 'Pacifico', cursive;
+    font-family: 'Patrick Hand', cursive;
+}
+
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    /* font-size: 6rem;
+    margin: 0;
+    -webkit-text-stroke: 2px rgb(204, 37, 54); */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 6rem;
+   
+}
+
+h3 {
+    font-family: 'Patrick Hand', cursive;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header nav a {
+    color:black;
+    font-size: 3rem;
+}
+
+footer {
+    height: 350px;
+    background-color:white;
+    justify-content: space-between;
+    padding: 30px 60px;
+}
+
+img {
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    /* flex-settings */
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    max-width: auto;
+    height: 100%;
+}
+
+/* CLASS */
+.button-link {
+      border-radius: 50px;
+}
+
+
+
+.container {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon-social {
+    margin: 5px;
+}
+
+
+/* ID */
+
+#stroke {
+    font-size: 6rem;
+    color: white;
+    margin: 10px;
+    -webkit-text-stroke: 6px rgb(204, 37, 54);
+    letter-spacing: 15px;
+   
+    
+
+}
+
+/* #image {
+    background-image: url('https://img.freepik.com/free-photo/baby-girl-carousel_98296-269.jpg?size=626&ext=jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    /* flex-settings */
+    /* flex-direction: column;
+    align-items:center;
+    justify-content: center; */
+}
+
+
